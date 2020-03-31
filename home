@@ -1,18 +1,7 @@
 {"banners":[
             {
                 "id":63,
-                "activity_name":"付款方式活动",
-                "banner_pic_url":"https://raw.githubusercontent.com/Melaliy/house/master/banner.png",
-                "mobile_banner_pic_url":"https://cdn.mse.mlwplus.com/meiliwu/13/pc_backstage/2019/10/30/19//64d2e10c08214528d83f0695f55d5026350a717b231.jpg",
-                "redirect_url":"",
-                "mobile_redirect_url":"",
-                "status":0,
-                "start_time":1572307200,
-                "end_time":1604448000,
-                "sequence":0,
-                "create_time":1572327085,
-                "update_time":1572434248,
-                "alipay_url":""
+                "banner_pic_url":"https://raw.githubusercontent.com/Melaliy/house/master/banner.png"
             }
         ],
 "data":[
